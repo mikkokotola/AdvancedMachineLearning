@@ -17,3 +17,5 @@ Libraries used:
 - Tensorflow and Keras for neural networks
 
 In some of the assigments the methods were intentionally implemented manually in lower-level code (not using the ready implementations in SKLearn) for learning purposes.
+
+Code was written in Jupyter (IPython) Notebooks and mostly also exported to plain .py files.
