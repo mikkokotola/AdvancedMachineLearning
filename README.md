@@ -19,3 +19,7 @@ Libraries used:
 In some of the assigments the methods were intentionally implemented manually in lower-level code (not using the ready implementations in SKLearn) for learning purposes.
 
 Code was written in Jupyter (IPython) Notebooks and mostly also exported to plain .py files.
+
+Links to course pages (might not be publicly available):
+- Course page: https://courses.helsinki.fi/fi/data12001/128936302
+- Moodle: https://moodle.helsinki.fi/course/view.php?id=33413
